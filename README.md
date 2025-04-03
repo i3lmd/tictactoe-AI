@@ -33,5 +33,5 @@ python3 tictactoe.py
 - The game continues until there is a winner or a draw.
 
 ---
-Made with ❤️ by [i3lmd] with the help of CS50AI
+Made with ❤️ by i3lmd with the help of CS50AI
 
